@@ -26,7 +26,7 @@ namespace CisamuProfile
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome, i'm Cisamu. For the most part I'm C# .NET Framework developer...");
+            Console.WriteLine("Welcome, i'm Cisamu. For the most part I'm C# .NET developer...");
         }
     }
 }
