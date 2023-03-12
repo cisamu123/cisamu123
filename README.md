@@ -5,7 +5,7 @@
 </div>
 <div id="badges">
   <div align="center">
-  <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png">
+  <a href="https://t.me/CodQu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     </div>
