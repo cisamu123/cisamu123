@@ -23,5 +23,6 @@ I am a Desktop, Cybersecurity C# .NET Developer <a href="#"> <img src="https://m
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>&nbsp;
 </div>
 
