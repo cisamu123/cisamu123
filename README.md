@@ -23,8 +23,3 @@ I am a Desktop, Cybersecurity C# .NET Developer <a href="#"> <img src="https://m
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>&nbsp;
 </div>
-## MY GIT STATS
-|[![Github stats](https://github-readme-stats.vercel.app/api?username=cisamu123&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
-|:---:|:---:|
-|[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cisamu123&theme=radical&layout=compact)](https://wakatime.com/cisamu123)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisamu123&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)|
-!-->
