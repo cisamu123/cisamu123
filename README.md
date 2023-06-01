@@ -16,8 +16,6 @@ I am a Desktop, Cybersecurity C# .NET Developer <a href="#"> <img src="https://m
 
 - :bank: I’m working as C# .net developer in Spytronical LTD.
 
-- :seedling: For the last few months I have also been learning the C language.
-
 - :mailbox:Mail Contact: cisamusuppo@gmail.com 
 ---
 
