@@ -30,6 +30,3 @@ I am a Desktop, Cybersecurity C# .NET Developer <a href="#"> <img src="https://m
 ## ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ ᴀɴᴅ ᴘᴇɴᴇᴛʀᴀᴛɪᴏɴ ᴛᴇsᴛɪɴɢ ғᴏʀ ᴇᴅᴜᴄᴀᴛɪᴏɴᴀʟ ᴘᴜʀᴘᴏsᴇs ᴏɴʟʏ
 ![Cisamu's GitHub stats](https://github-readme-stats.vercel.app/api?username=cisamu123&show_icons=true&theme=great-gatsby)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cisamu123&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-##
-[![Cisamu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cisamu123&theme=great-gatsby)](https://wakatime.com/@cisamu123)
