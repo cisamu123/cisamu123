@@ -18,7 +18,8 @@ I am a Desktop, Cybersecurity C# .NET Developer <a href="#"> <img src="https://m
 
 - :mailbox:Mail Contact: cisamusuppo@gmail.com 
 ---
-
+## 🎶 Actually Listening 🎵
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=09ovoukaqrcwglkktf592kry7&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=09ovoukaqrcwglkktf592kry7&redirect=true)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>&nbsp;
