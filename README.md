@@ -7,6 +7,9 @@
   <a href="https://t.me/CodQu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://t.me/Cisamu">
+    <img src="https://img.shields.io/badge/My%20Telegram%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <div align="center">
