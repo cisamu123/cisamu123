@@ -15,9 +15,9 @@
 <div align="center">
 
 ### :man_technologist: About Me :
-I am a Desktop, Cybersecurity C# .NET Developer <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> from Ukraine. 
+I am a Desktop, Cybersecurity Python, C# .NET Developer <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> from Ukraine. 
 
- :bank: I’m working as a C# .NET developer in Spytronical LTD.
+ :bank: I’m working as a Python, .NET C# developer.
  :mailbox: Mail Contact: cisamusuppo@gmail.com 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=09ovoukaqrcwglkktf592kry7&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00ff00)](https://spotify-github-profile.vercel.app/api/view?uid=09ovoukaqrcwglkktf592kry7&redirect=true)
