@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://github.com/cisamu123/cisamu123/blob/main/assets/zyzz..gif" width="600" height="300"/>
+    <img src="https://github.com/cisamu123/cisamu123/blob/main/assets/mr-robot.gif" width="600" height="300"/>
   </a>
 </div>
 <div id="badges" align="center">
