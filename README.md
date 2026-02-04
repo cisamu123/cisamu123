@@ -4,7 +4,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/CodQu">
+  <a href="https://t.me/cisamu123">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://t.me/Cisamu">
@@ -15,11 +15,13 @@
 <div align="center">
 
 ### :man_technologist: About Me :
-I am a Desktop, Cybersecurity Python, C# .NET, Java Developer <a href="#"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </a> from Ukraine. 
+I am Cybersecurity Developer from Ukraine
 
- :bank: I’m working as a Python, .NET C#, Java developer.
- :mailbox: Mail Contact: cisamusuppo@gmail.com 
+ 💻 I primarily work with Python and C#/.NET, focusing on desktop software, automation, and cybersecurity research projects.
  
+🧠 5+ Years Of Experience
+
+
 ## 📽️ Just created a fun video about my Cyber Eye RAT check it out!
 [![Cyber Eye RAT Demo](https://img.youtube.com/vi/amxtUvj0KQI/0.jpg)](https://youtu.be/amxtUvj0KQI)
 
